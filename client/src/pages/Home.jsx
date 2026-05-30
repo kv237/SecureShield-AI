@@ -16,7 +16,7 @@ function Home() {
   const scanCode = async () => {
     try {
       const res = await axios.post(
-        "http://localhost:5000/scan",
+        "https://secureshield-ai.onrender.com/scan",
         { code }
       );
 
