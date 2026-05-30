@@ -124,22 +124,22 @@ Generates downloadable security assessment reports containing:
 ## 📸 Screenshots
 
 ### 1. Home Page Interface
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/Home%20Page%20Interface.png)
 
 ### 2. Code Input & Scan Demonstration
-![Code Scan Demo](screenshots/code-scan-demo.png)
+![Code Scan Demo](screenshots/Code%20Input%20%26%20Scan%20Demonstration.png)
 
 ### 3. Security Assessment Dashboard
-![Dashboard](screenshots/security-dashboard.png)
+![Dashboard](screenshots/Security%20Assessment%20Dashboard.png)
 
 ### 4. Detected Vulnerabilities Overview
-![Vulnerabilities](screenshots/vulnerabilities-overview.png)
+![Vulnerabilities](screenshots/Detected%20Vulnerabilities%20Overview.png)
 
 ### 5. Risk Severity Classification
-![Severity Classification](screenshots/severity-classification.png)
+![Severity Classification](screenshots/Risk%20Severity%20Classification.png)
 
 ### 6. AI Security Recommendations
-![AI Recommendations](screenshots/ai-recommendations.png)
+![AI Recommendations](screenshots/AI%20Security%20Recommendations.png)
 
 ## 🔥 What Makes SecureShield AI Different?
 
